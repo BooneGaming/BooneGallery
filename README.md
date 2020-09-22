@@ -1,2 +1,2 @@
 # BooneGallery
-Assets for Gallery
+Assets for our Online Art Gallery
